@@ -1,6 +1,6 @@
 # アプリケーション名　Atte
 概要：ある企業の勤怠管理システム
-![Image](img/atte-top.png)
+![Image](img/atte-top.jpg)
 
 ## 作成した目的
 人事評価のため
@@ -21,16 +21,16 @@
 * mysql 8.0.26
 
 ## テーブル設計
-![Image](img/atte-table.png)
+![Image](img/table.jpg)
 
 ## ER図
-![Image](img/relation.png)
+![Image](img/atte-relation.jpg)
 
 ## 環境構築
-☆bladeビュー
-* ログイン画面（logion.blade.php）
-* 会員登録画面（register.blade.php）
-* 勤務、休憩打刻画面（index.blade.php）
+☆ビュー画面
+* ログイン（logion.blade.php）
+* 会員登録（register.blade.php）
+* 勤務、休憩打刻（index.blade.php）
 * 日付別勤怠一覧表（attendance_date.blade.php）
 
 ☆モデル
