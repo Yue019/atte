@@ -1,6 +1,6 @@
 # アプリケーション名　Atte
 概要：ある企業の勤怠管理システム
-![My Image](img/top.png)
+![My Image](./img/top.png)
 
 ## 作成した目的
 人事評価のため
@@ -21,10 +21,10 @@
 *mysql 8.0.26
 
 ## テーブル設計
-![My Image](img/atte_table.png)
+![My Image](./img/atte_table.png)
 
 ## ER図
-![My Image](img/relation.png)
+![My Image](./img/relation.png)
 
 ## 環境構築
 ☆bladeビュー
